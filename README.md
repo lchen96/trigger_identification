@@ -44,7 +44,7 @@ python main.py --val_type RANDOM --gpu 0
 or run the code for `LOEO` validation:
 
 ```bash
-python main.py --val_type RANDOM --test_event 0 --gpu 0
+python main.py --val_type LOEO --test_event 0 --gpu 0
 ```
 
 ## Citation
